@@ -7,6 +7,4 @@ featured_image: ""
 Hello aku hanivan, aku adalah seorang linux ethusiast.  
 Haha kena tipu. Kasian deh luu
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4S2qngt4dpA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-[![](http://img.youtube.com/vi/4S2qngt4dpA/0.jpg)](http://www.youtube.com/watch?v=4S2qngt4dpA "")
+<iframe src="https://www.youtube.com/embed/enMumwvLAug" frameborder="0" allowfullscreen="true"> </iframe>

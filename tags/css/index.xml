@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>css on Lintas Coretan Milenial</title>
-    <link>http://localhost:1313/blog/tags/css/</link>
+    <link>https://hanivan.github.io/lintascatatan/tags/css/</link>
     <description>Recent content in css on Lintas Coretan Milenial</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 Mar 2021 14:35:33 +0700</lastBuildDate><atom:link href="http://localhost:1313/blog/tags/css/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 Mar 2021 14:35:33 +0700</lastBuildDate><atom:link href="https://hanivan.github.io/lintascatatan/tags/css/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Second Posts</title>
-      <link>http://localhost:1313/blog/posts/second-posts/</link>
+      <link>https://hanivan.github.io/lintascatatan/posts/second-posts/</link>
       <pubDate>Fri, 19 Mar 2021 14:35:33 +0700</pubDate>
       
-      <guid>http://localhost:1313/blog/posts/second-posts/</guid>
+      <guid>https://hanivan.github.io/lintascatatan/posts/second-posts/</guid>
       <description>metadata untuk twitter cut, facebook share
 {{ template &amp;ldquo;_internal/pagination.html&amp;rdquo; . }}</description>
     </item>

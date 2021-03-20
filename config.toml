@@ -7,3 +7,8 @@ paginate = 2
 
 [params]
 	Description = "Tempat dimana yang nantinya akan disebut sebuah buku online"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

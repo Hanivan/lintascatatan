@@ -1,0 +1,9 @@
+baseURL = "http://localhost:1313/blog/"
+languageCode = "en-us"
+title = "Lintas Coretan Milenial"
+theme = "ltheme"
+summaryLength = 25
+paginate = 2
+
+[params]
+	Description = "Tempat dimana yang nantinya akan disebut sebuah buku online"

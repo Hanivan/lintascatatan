@@ -1,0 +1,21 @@
+{{ define "main" }}
+	
+	<h1>{{ .Title }}</h1>
+	{{ if isset .Params "featured_image" }}
+		<img src="{{ .Params.featured_image }}" alt="#" width="200">
+	{{ else }}
+		<img src="kegambar_default" alt="default_image" width="200">
+	{{ end }}
+	<div>{{ .Content }}</div>
+
+	<hr>
+	<p>Tag yang berhubungan:</p>
+	{{ with .Params.tags }}
+		<ul>
+			{{ range . }}
+				<a href="/tags/{{ . | urlize }}">{{ . }}</a>
+			{{ end }}
+		</ul>
+	{{ end }}
+
+{{ end }}

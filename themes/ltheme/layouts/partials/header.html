@@ -1,0 +1,11 @@
+<a href="http://localhost:1313/blog/">Home</a>
+<a href="https://youtube.com/lintasanvideo" target="_blank">Youtube</a>
+{{ if .IsHome }}
+	<a href="posts">Posts</a>
+	<a href="rekomendasi">Rekomendasi</a>
+{{ end }}
+<hr>
+
+{{ if .IsPage }}
+	<p>Aku adalah page</p>
+{{ end }}

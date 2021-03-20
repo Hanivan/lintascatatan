@@ -7,4 +7,4 @@ featured_image: ""
 Hello aku hanivan, aku adalah seorang linux ethusiast.  
 Haha kena tipu. Kasian deh luu
 
-<iframe src="https://www.youtube.com/embed/enMumwvLAug" frameborder="0" allowfullscreen="true"> </iframe>
+{{< youtube id="mbQoEj1EIdc" title="20200924 ujinyali menjalankan ArchLinux" >}}

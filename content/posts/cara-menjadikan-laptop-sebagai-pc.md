@@ -5,4 +5,4 @@ featured_image: ""
 ---
 ![ini adalah gambar](../../uploads/favicon.png)\
 Hello aku hanivan, aku adalah seorang linux ethusiast.  
-Haha
+Haha kena tipu.

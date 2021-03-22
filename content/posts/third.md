@@ -5,4 +5,4 @@ tags:
 - python
 - django
 ---
-Kamu lagi ngapain hah?
+Kamu lagi ngapain hah? aku kepo tau

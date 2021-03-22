@@ -1,4 +1,4 @@
-baseURL = "https://hanivan.github.io/lintascatatan/"
+baseURL = "http://localhost:1313/blog/"
 languageCode = "en-us"
 title = "Lintas Coretan Milenial"
 theme = "ltheme"
@@ -7,8 +7,3 @@ paginate = 2
 
 [params]
 	Description = "Tempat dimana yang nantinya akan disebut sebuah buku online"
-
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true

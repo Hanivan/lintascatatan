@@ -42,5 +42,3 @@ Hello World
 Daftar Rekomendasi
 Buku Terbaru [2021193]
 Copyright Lintasan Community
-
-test test

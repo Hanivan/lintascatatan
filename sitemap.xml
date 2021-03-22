@@ -2,60 +2,60 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://hanivan.github.io/lintascatatan/posts/cara-menjadikan-laptop-sebagai-pc/</loc>
+    <loc>http://localhost:1313/blog/posts/cara-menjadikan-laptop-sebagai-pc/</loc>
     <lastmod>2021-03-20T12:27:38+07:00</lastmod>
   </url><url>
-    <loc>https://hanivan.github.io/lintascatatan/</loc>
+    <loc>http://localhost:1313/blog/</loc>
     <lastmod>2021-03-20T12:27:38+07:00</lastmod>
   </url><url>
-    <loc>https://hanivan.github.io/lintascatatan/posts/</loc>
+    <loc>http://localhost:1313/blog/posts/</loc>
     <lastmod>2021-03-20T12:27:38+07:00</lastmod>
   </url><url>
-    <loc>https://hanivan.github.io/lintascatatan/rekomendasi/buku-terbaru/</loc>
+    <loc>http://localhost:1313/blog/rekomendasi/buku-terbaru/</loc>
     <lastmod>2021-03-19T20:02:08+07:00</lastmod>
   </url><url>
-    <loc>https://hanivan.github.io/lintascatatan/rekomendasi/</loc>
+    <loc>http://localhost:1313/blog/rekomendasi/</loc>
     <lastmod>2021-03-19T20:02:08+07:00</lastmod>
   </url><url>
-    <loc>https://hanivan.github.io/lintascatatan/tags/c&#43;&#43;/</loc>
+    <loc>http://localhost:1313/blog/tags/c&#43;&#43;/</loc>
     <lastmod>2021-03-19T19:50:52+07:00</lastmod>
   </url><url>
-    <loc>https://hanivan.github.io/lintascatatan/tags/clang/</loc>
+    <loc>http://localhost:1313/blog/tags/clang/</loc>
     <lastmod>2021-03-19T19:50:52+07:00</lastmod>
   </url><url>
-    <loc>https://hanivan.github.io/lintascatatan/posts/fourth/</loc>
+    <loc>http://localhost:1313/blog/posts/fourth/</loc>
     <lastmod>2021-03-19T19:50:52+07:00</lastmod>
   </url><url>
-    <loc>https://hanivan.github.io/lintascatatan/tags/</loc>
+    <loc>http://localhost:1313/blog/tags/</loc>
     <lastmod>2021-03-19T19:50:52+07:00</lastmod>
   </url><url>
-    <loc>https://hanivan.github.io/lintascatatan/tags/django/</loc>
+    <loc>http://localhost:1313/blog/tags/django/</loc>
     <lastmod>2021-03-19T19:47:15+07:00</lastmod>
   </url><url>
-    <loc>https://hanivan.github.io/lintascatatan/tags/python/</loc>
+    <loc>http://localhost:1313/blog/tags/python/</loc>
     <lastmod>2021-03-19T19:47:15+07:00</lastmod>
   </url><url>
-    <loc>https://hanivan.github.io/lintascatatan/posts/third/</loc>
+    <loc>http://localhost:1313/blog/posts/third/</loc>
     <lastmod>2021-03-19T19:47:15+07:00</lastmod>
   </url><url>
-    <loc>https://hanivan.github.io/lintascatatan/tags/css/</loc>
+    <loc>http://localhost:1313/blog/tags/css/</loc>
     <lastmod>2021-03-19T14:35:33+07:00</lastmod>
   </url><url>
-    <loc>https://hanivan.github.io/lintascatatan/tags/html/</loc>
+    <loc>http://localhost:1313/blog/tags/html/</loc>
     <lastmod>2021-03-19T14:35:33+07:00</lastmod>
   </url><url>
-    <loc>https://hanivan.github.io/lintascatatan/tags/js/</loc>
+    <loc>http://localhost:1313/blog/tags/js/</loc>
     <lastmod>2021-03-19T14:35:33+07:00</lastmod>
   </url><url>
-    <loc>https://hanivan.github.io/lintascatatan/posts/second-posts/</loc>
+    <loc>http://localhost:1313/blog/posts/second-posts/</loc>
     <lastmod>2021-03-19T14:35:33+07:00</lastmod>
   </url><url>
-    <loc>https://hanivan.github.io/lintascatatan/posts/belajar-hugo/</loc>
+    <loc>http://localhost:1313/blog/posts/belajar-hugo/</loc>
     <lastmod>2021-03-19T13:58:18+07:00</lastmod>
   </url><url>
-    <loc>https://hanivan.github.io/lintascatatan/tags/hugo/</loc>
+    <loc>http://localhost:1313/blog/tags/hugo/</loc>
     <lastmod>2021-03-19T13:58:18+07:00</lastmod>
   </url><url>
-    <loc>https://hanivan.github.io/lintascatatan/categories/</loc>
+    <loc>http://localhost:1313/blog/categories/</loc>
   </url>
 </urlset>

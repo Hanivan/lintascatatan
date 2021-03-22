@@ -2,65 +2,63 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lintas Coretan Milenial</title>
-    <link>https://hanivan.github.io/lintascatatan/</link>
+    <link>http://localhost:1313/blog/</link>
     <description>Recent content on Lintas Coretan Milenial</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 20 Mar 2021 12:27:38 +0700</lastBuildDate><atom:link href="https://hanivan.github.io/lintascatatan/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 20 Mar 2021 12:27:38 +0700</lastBuildDate><atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cara Menjadikan Laptop Sebagai PC</title>
-      <link>https://hanivan.github.io/lintascatatan/posts/cara-menjadikan-laptop-sebagai-pc/</link>
+      <link>http://localhost:1313/blog/posts/cara-menjadikan-laptop-sebagai-pc/</link>
       <pubDate>Sat, 20 Mar 2021 12:27:38 +0700</pubDate>
       
-      <guid>https://hanivan.github.io/lintascatatan/posts/cara-menjadikan-laptop-sebagai-pc/</guid>
-      <description>Hello aku hanivan, aku adalah seorang linux ethusiast.
-Haha kena tipu. Kasian deh luu
- </description>
+      <guid>http://localhost:1313/blog/posts/cara-menjadikan-laptop-sebagai-pc/</guid>
+      <description>Hello aku hanivan, aku adalah seorang linux ethusiast.</description>
     </item>
     
     <item>
       <title>Buku Terbaru</title>
-      <link>https://hanivan.github.io/lintascatatan/rekomendasi/buku-terbaru/</link>
+      <link>http://localhost:1313/blog/rekomendasi/buku-terbaru/</link>
       <pubDate>Fri, 19 Mar 2021 20:02:08 +0700</pubDate>
       
-      <guid>https://hanivan.github.io/lintascatatan/rekomendasi/buku-terbaru/</guid>
+      <guid>http://localhost:1313/blog/rekomendasi/buku-terbaru/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fourth</title>
-      <link>https://hanivan.github.io/lintascatatan/posts/fourth/</link>
+      <link>http://localhost:1313/blog/posts/fourth/</link>
       <pubDate>Fri, 19 Mar 2021 19:50:52 +0700</pubDate>
       
-      <guid>https://hanivan.github.io/lintascatatan/posts/fourth/</guid>
+      <guid>http://localhost:1313/blog/posts/fourth/</guid>
       <description>Nanti kalau udah kerja, bantu adik mu yaa</description>
     </item>
     
     <item>
       <title>Third</title>
-      <link>https://hanivan.github.io/lintascatatan/posts/third/</link>
+      <link>http://localhost:1313/blog/posts/third/</link>
       <pubDate>Fri, 19 Mar 2021 19:47:15 +0700</pubDate>
       
-      <guid>https://hanivan.github.io/lintascatatan/posts/third/</guid>
+      <guid>http://localhost:1313/blog/posts/third/</guid>
       <description>Kamu lagi ngapain hah?</description>
     </item>
     
     <item>
       <title>Second Posts</title>
-      <link>https://hanivan.github.io/lintascatatan/posts/second-posts/</link>
+      <link>http://localhost:1313/blog/posts/second-posts/</link>
       <pubDate>Fri, 19 Mar 2021 14:35:33 +0700</pubDate>
       
-      <guid>https://hanivan.github.io/lintascatatan/posts/second-posts/</guid>
+      <guid>http://localhost:1313/blog/posts/second-posts/</guid>
       <description>metadata untuk twitter cut, facebook share
 {{ template &amp;ldquo;_internal/pagination.html&amp;rdquo; . }}</description>
     </item>
     
     <item>
       <title>Belajar Hugo</title>
-      <link>https://hanivan.github.io/lintascatatan/posts/belajar-hugo/</link>
+      <link>http://localhost:1313/blog/posts/belajar-hugo/</link>
       <pubDate>Fri, 19 Mar 2021 13:58:18 +0700</pubDate>
       
-      <guid>https://hanivan.github.io/lintascatatan/posts/belajar-hugo/</guid>
+      <guid>http://localhost:1313/blog/posts/belajar-hugo/</guid>
       <description>Hello World elliot alderson Home Youtube Posts Rekomendasi Lintas Coretan Milenial Daftar Post Fourth [2021193] Nanti kalau udah kerja, bantu adik mu yaa
 Third [2021193] Kamu lagi ngapain hah?</description>
     </item>

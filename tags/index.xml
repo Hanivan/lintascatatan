@@ -2,80 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Lintas Coretan Milenial</title>
-    <link>https://hanivan.github.io/lintascatatan/tags/</link>
+    <link>http://localhost:1313/blog/tags/</link>
     <description>Recent content in Tags on Lintas Coretan Milenial</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 Mar 2021 19:50:52 +0700</lastBuildDate><atom:link href="https://hanivan.github.io/lintascatatan/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 Mar 2021 19:50:52 +0700</lastBuildDate><atom:link href="http://localhost:1313/blog/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>c&#43;&#43;</title>
-      <link>https://hanivan.github.io/lintascatatan/tags/c&#43;&#43;/</link>
+      <link>http://localhost:1313/blog/tags/c&#43;&#43;/</link>
       <pubDate>Fri, 19 Mar 2021 19:50:52 +0700</pubDate>
       
-      <guid>https://hanivan.github.io/lintascatatan/tags/c&#43;&#43;/</guid>
+      <guid>http://localhost:1313/blog/tags/c&#43;&#43;/</guid>
       <description></description>
     </item>
     
     <item>
       <title>clang</title>
-      <link>https://hanivan.github.io/lintascatatan/tags/clang/</link>
+      <link>http://localhost:1313/blog/tags/clang/</link>
       <pubDate>Fri, 19 Mar 2021 19:50:52 +0700</pubDate>
       
-      <guid>https://hanivan.github.io/lintascatatan/tags/clang/</guid>
+      <guid>http://localhost:1313/blog/tags/clang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>django</title>
-      <link>https://hanivan.github.io/lintascatatan/tags/django/</link>
+      <link>http://localhost:1313/blog/tags/django/</link>
       <pubDate>Fri, 19 Mar 2021 19:47:15 +0700</pubDate>
       
-      <guid>https://hanivan.github.io/lintascatatan/tags/django/</guid>
+      <guid>http://localhost:1313/blog/tags/django/</guid>
       <description></description>
     </item>
     
     <item>
       <title>python</title>
-      <link>https://hanivan.github.io/lintascatatan/tags/python/</link>
+      <link>http://localhost:1313/blog/tags/python/</link>
       <pubDate>Fri, 19 Mar 2021 19:47:15 +0700</pubDate>
       
-      <guid>https://hanivan.github.io/lintascatatan/tags/python/</guid>
+      <guid>http://localhost:1313/blog/tags/python/</guid>
       <description></description>
     </item>
     
     <item>
       <title>css</title>
-      <link>https://hanivan.github.io/lintascatatan/tags/css/</link>
+      <link>http://localhost:1313/blog/tags/css/</link>
       <pubDate>Fri, 19 Mar 2021 14:35:33 +0700</pubDate>
       
-      <guid>https://hanivan.github.io/lintascatatan/tags/css/</guid>
+      <guid>http://localhost:1313/blog/tags/css/</guid>
       <description></description>
     </item>
     
     <item>
       <title>html</title>
-      <link>https://hanivan.github.io/lintascatatan/tags/html/</link>
+      <link>http://localhost:1313/blog/tags/html/</link>
       <pubDate>Fri, 19 Mar 2021 14:35:33 +0700</pubDate>
       
-      <guid>https://hanivan.github.io/lintascatatan/tags/html/</guid>
+      <guid>http://localhost:1313/blog/tags/html/</guid>
       <description></description>
     </item>
     
     <item>
       <title>js</title>
-      <link>https://hanivan.github.io/lintascatatan/tags/js/</link>
+      <link>http://localhost:1313/blog/tags/js/</link>
       <pubDate>Fri, 19 Mar 2021 14:35:33 +0700</pubDate>
       
-      <guid>https://hanivan.github.io/lintascatatan/tags/js/</guid>
+      <guid>http://localhost:1313/blog/tags/js/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hugo</title>
-      <link>https://hanivan.github.io/lintascatatan/tags/hugo/</link>
+      <link>http://localhost:1313/blog/tags/hugo/</link>
       <pubDate>Fri, 19 Mar 2021 13:58:18 +0700</pubDate>
       
-      <guid>https://hanivan.github.io/lintascatatan/tags/hugo/</guid>
+      <guid>http://localhost:1313/blog/tags/hugo/</guid>
       <description></description>
     </item>
     
